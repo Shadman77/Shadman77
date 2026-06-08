@@ -112,6 +112,14 @@ Implemented machine learning solutions involving image recognition and facial an
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shadman77&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Shadman77,shadman-saif&show_icons=true" />
+
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman77,shadman-saif&layout=compact" />
+</p>
+
 ---
 
 ## 🎯 Current Focus
