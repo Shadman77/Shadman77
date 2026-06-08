@@ -104,8 +104,8 @@ Implemented machine learning solutions involving image recognition and facial an
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shadman77&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman77&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shadman77&show_icons=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shadman77&layout=compact" />
 </p>
 
 <p align="center">
