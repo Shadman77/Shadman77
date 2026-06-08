@@ -114,10 +114,18 @@ Implemented machine learning solutions involving image recognition and facial an
 
 <p align="center">
   <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Shadman77,shadman-saif&show_icons=true" />
+    src="https://github-readme-stats.vercel.app/api?username=Shadman77&show_icons=true" />
 
   <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman77,shadman-saif&layout=compact" />
+    src="https://github-readme-stats.vercel.app/api?username=shadman-saif&show_icons=true" />
+</p>
+
+<p align="center">
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman77&layout=compact" />
+
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadman-saif&layout=compact" />
 </p>
 
 ---
